@@ -1,2 +1,2 @@
 # cuaternario.github.io
-The Website for Cuaternario 
+The Website of Cuaternario 
